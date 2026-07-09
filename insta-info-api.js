@@ -449,5 +449,3 @@ async function handle(req) {
     return j({ error: "fetch_failed", message: e.message }, 500);
   }
 }
-
-// src by @ftgamer2 🐱‍👤
