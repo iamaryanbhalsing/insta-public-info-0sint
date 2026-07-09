@@ -1,4 +1,4 @@
-# Instagram Scraper Cloudflare Worker
+# ℹ️Instagram Scraper Cloudflare Worker
 
 A lightweight, zero-dependency Cloudflare Worker that scrapes public Instagram profile data and recent posts using unofficial endpoints. Bypasses many rate limits and works without official API keys.
 
