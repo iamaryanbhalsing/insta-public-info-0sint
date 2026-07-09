@@ -23,7 +23,7 @@ A lightweight, zero-dependency Cloudflare Worker that scrapes public Instagram p
 
 ---
 
-## Endpoints
+## 🔚Endpoints
 
 ### `GET /info`
 
