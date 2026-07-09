@@ -5,6 +5,8 @@ A lightweight, zero-dependency Cloudflare Worker that scrapes public Instagram p
 **Updated for 2026 Instagram changes.**
 
 ---
+>Live At : https://instainfo.iamaryanbhalsing.workers.dev/info?username=iam._aryanbhalsing
+---
 
 ## Features
 
