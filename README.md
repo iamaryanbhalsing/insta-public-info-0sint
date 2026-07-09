@@ -8,7 +8,7 @@ A lightweight, zero-dependency Cloudflare Worker that scrapes public Instagram p
 >Live At : https://instainfo.iamaryanbhalsing.workers.dev/info?username=iam._aryanbhalsing
 ---
 
-## Features
+## 🧑‍💻Features
 
 - **Profile Information**: Full user profile with bio, stats, links, business info, etc.
 - **Recent Posts**: Fetch up to 50 recent posts (photos, videos, carousels, reels).
