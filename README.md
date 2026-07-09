@@ -37,14 +37,14 @@ Main endpoint.
 
 ---
 
-## Limitations & Notes
-
+## 🍃Limitations & Notes
+```
 Public accounts only (private accounts will fail).
 Instagram frequently changes their web structure — this script includes multiple fallbacks.
 Rate limiting may still apply for heavy usage.
 Respect Instagram's Terms of Service.
 For educational / personal use.
-
+```
 ---
 
 ## Data Fields (Key ones)
